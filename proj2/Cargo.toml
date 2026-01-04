@@ -1,0 +1,10 @@
+[package]
+name = "ml-proj2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.17.1"
+linfa = "0.7.0"
+linfa-logistic = "0.7.0"
+
