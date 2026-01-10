@@ -1,0 +1,11 @@
+#
+# https://www.youtube.com/watch?v=lHcPR_UwGSA
+#
+[package]
+name = "v1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.17.1"
+
